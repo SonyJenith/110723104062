@@ -165,6 +165,7 @@ notification_app_fe/
 │   └── main.jsx                    # React entry point
 ```
 
+### Pages
 
 #### All Notifications (`/`)
 
