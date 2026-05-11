@@ -11,10 +11,10 @@ The Notification Priority System provides a clean, modern interface for managing
 Displays all notifications with filtering options by type (Event, Placement, Result) and pagination support.
 
 **All Notifications - Mixed Types:**
-![All Notifications - Mixed Types](./screenshots/all_notifications_mixed.png)
+![All Notifications - Mixed Types](./output/output_1.png)
 
 **All Notifications - Placement Filter:**
-![All Notifications - Placement Filter](./screenshots/all_notifications_placement.png)
+![All Notifications - Placement Filter](./output/output_2.png)
 
 #### Key Features:
 - **Filter by Type**: Event, Placement, and Result notification types
@@ -32,7 +32,7 @@ Displays all notifications with filtering options by type (Event, Placement, Res
 Displays top-ranked notifications based on priority scoring algorithm, ordered from highest to lowest importance.
 
 **Priority Inbox - Ranked Notifications:**
-![Priority Inbox - Ranked Notifications](./screenshots/priority_inbox.png)
+![Priority Inbox - Ranked Notifications](./output/output_3.png)
 
 #### Key Features:
 - **Ranked Display**: Numbered list (1-10) showing importance order
