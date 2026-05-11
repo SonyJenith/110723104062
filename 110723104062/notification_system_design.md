@@ -93,4 +93,4 @@ npm install
 npm start  # Runs on localhost:3000
 ```
 
-Both servers need to be running for the full application to function.
+Both servers need to be running for the full application to function!!.
