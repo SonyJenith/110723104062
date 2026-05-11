@@ -15,25 +15,19 @@ The goal is to ensure students always see the most critical, time-sensitive camp
 
 ## Output Showcase
 
-> Store your screenshots inside a stable repository folder such as `images/` or `screenshots/` and update the file names below if needed.
-
 ### All Notifications View
 
 **Mixed Types**  
+![Page 1](./output/output_1.png)
 
-
-**Placement Filter**  
+**Placement Filter** 
+![Page 2](./output/output_3.png) 
 
 
 ### Priority Inbox
 
 **Ranked Notifications**  
-
-
-### Optional: CLI Output (Stage 1)
-
-If you have a terminal screenshot of Stage 1 output, add it here:
-
+![Page 3](./output/output_4.png)
 
 
 ***
@@ -144,10 +138,6 @@ npm run top15      # top 15
 TOP_N=20 npm start # top 20
 ```
 
-### Sample Backend Output
-
-![Backend_API](./output/backend_output.png)
-
 ***
 
 ## Stage 2
@@ -175,10 +165,6 @@ notification_app_fe/
 │   └── main.jsx                    # React entry point
 ```
 
-### Pages
-![Page 1](./output/output_1.png)
-![Page 1](./output/output_3.png)
-![Page 1](./output/output_4.png)
 
 #### All Notifications (`/`)
 
